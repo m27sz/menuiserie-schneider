@@ -54,8 +54,8 @@ export function Home() {
           </div>
           <img
             className="split__img"
-            src={galleries[3].photos[0].src}
-            alt={galleries[3].photos[0].alt}
+            src={galleries[0].photos[1].src}
+            alt={galleries[0].photos[1].alt}
             loading="lazy"
           />
         </div>
